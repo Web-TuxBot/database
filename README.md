@@ -17,3 +17,4 @@ Run in order:
 ## Quick Start
 ```bash
 psql -U postgres -d tuxbot_db -f scripts/init_database.sql
+<img width="972" height="1016" alt="image" src="https://github.com/user-attachments/assets/a054c55f-c2b3-438b-9623-f054ffcb25b8" />
